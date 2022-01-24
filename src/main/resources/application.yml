@@ -6,7 +6,7 @@
           mongodb:
              host: localhost
              port: 27017
-             database: my_db2
+             database: my-db2
 
         application:
               name: USER-SERVICE
